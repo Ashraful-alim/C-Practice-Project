@@ -53,7 +53,7 @@ void main_menu(void)
 
     design_LINE();
     printf("\n\t\t\t%c \t\t                                                                    %c",178,178);
-    printf("\n\t\t\t%c \t\t   ** W E L C O M E    T O    \"M M R G Y M\" **                      %c",178,178);
+    printf("\n\t\t\t%c \t\t   ** W E L C O M E    T O    \"A B C G Y M\" **                      %c",178,178);
     printf("\n\t\t\t%c \t\t                                                                    %c",178,178);
     design_LINE();
     printf("\n\n\n\n\t\t\t1)Receptionist Section\n");
